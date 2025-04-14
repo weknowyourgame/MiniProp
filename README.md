@@ -1,8 +1,4 @@
 # MiniProp
 
-A small backpropagation engine and a custom MLP neural net implemented from scratch 
-
-Built using Numpy & Math
-
-# LICENSE 
-MIT
+Wrote a python neural network from scratch implementation in python last year...
+Decided to rewrite the thing in C++
