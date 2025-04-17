@@ -1,4 +1,6 @@
 # MiniProp
 
-### Wrote a python neural network from scratch implementation in python last year...
-### Decided to rewrite the whole thing in C++
+- A tiny Autograd engine. 
+- Implements backpropagation over a dynamically built DAG and a small neural networks library on top of it.
+
+- Wrote it in python last year [MiniProp PY](https://github.com/sarthakkapila/miniprop)
